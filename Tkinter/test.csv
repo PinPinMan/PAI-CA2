@@ -1,0 +1,6 @@
+country_code,customer_id,num_orders_last_50days,num_cancelled_orders_last_50days,num_refund_orders_last_50days,total_payment_last_50days,num_associated_customers,order_id,collect_type,order_value,num_items_ordered,refund_value,payment_group
+BD,a0afp7hz,19,0,0,135.93,3,u2qo-f2n5,delivery,4.41,5,0.00,Credit/Debit Card Payments
+BD,a0akr6uc,31,1,0,712.24,2,orca-073r,delivery,400.23,3,200.53,Cash/Alternative Payments
+BD,a0aya4cb,34,0,0,381.79,3,u7ox-r80t,delivery,5.67,3,2.03,Cash/Alternative Payments
+BD,a0bwh4cs,51,0,0,611.81,1,fgxo-yub4,delivery,4.08,7,0.0,Credit/Debit Card Payments
+BD,a0cor0bv,36,0,0,504.55,3,b1fl-pjg9,delivery,62.08,11,0.00,Cash/Alternative Payments
